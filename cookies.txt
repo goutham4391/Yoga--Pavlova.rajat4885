@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pavlovaspasalon.com	TRUE	/	FALSE	1999999999	crumb	BXPNYCu235N0OWZkNWQ5MzhhZDRkMDFjMzFjNjk3N2JmNTA3MTZh
+
